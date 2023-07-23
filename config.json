@@ -1,0 +1,5 @@
+{ 
+  "applicationid":"", // id application yang dibuat di discord developer
+  "text":"", // text custom activity yang tampil di samping gambar
+  "nama_gambar":"", // nama gambar yang ditambahkan pada application discord developer
+}
